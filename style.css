@@ -1,0 +1,26 @@
+nav.bg-primary{
+    background-color: rgb(70, 32, 180) !important;
+}
+
+.main-color,.card.main-color {
+    background-color: rgb(70, 32, 180);
+}
+
+
+#bg-img{
+    max-height: 30vh;
+    overflow: hidden;
+}
+
+.card-img-top{
+    height: 30vh;
+    width: 100%;
+    object-fit: cover;
+}
+
+.flow img{
+    height: 30vh;
+    width: 100%;
+    object-fit: cover;
+}
+
